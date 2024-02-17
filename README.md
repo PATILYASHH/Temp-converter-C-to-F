@@ -30,6 +30,7 @@ Where:
 
 
 Enter Temperature in Celsius: 25
+
  25 Celsius = 77 Fahrenheit
 
 
